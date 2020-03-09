@@ -1,0 +1,58 @@
+{
+    "_id" : ObjectId("5e65fc29268366718580c4b9"),
+    "team" : "manchester united",
+    "team1" : "juventus",
+    "matches" : "manchester united vs juventus",
+    "manchester united players name" : [ 
+        "david de gea", 
+        "Lee Grant", 
+        "bobby charlton", 
+        "eric bailly", 
+        "phil jones", 
+        "chris smalling", 
+        "marcos", 
+        "diogo dalot", 
+        "paul pogba", 
+        "juan mata", 
+        "fred", 
+        "daniel james", 
+        "bruno fernandes", 
+        "james garner", 
+        "nemanja matic", 
+        "james garner", 
+        "alexis sanchez", 
+        "anthony martial", 
+        "mason greenwood", 
+        "tahith chong"
+    ],
+    "top player" : [ 
+        "Cristiano Ronaldo", 
+        "Douglas Costa", 
+        "Paulo Dybala", 
+        "daniel james", 
+        "bruno fernandes", 
+        "james garner"
+    ],
+    "best player in london" : [ 
+        "Paulo Dybala", 
+        "bobby charlton"
+    ]
+}
+
+{
+    "_id" : ObjectId("5e6600be268366718580c4ba"),
+    "HighestPaidPlayer" : [ 
+        "paul pogba", 
+        "antonio conte", 
+        "chrisiano ronaldo", 
+        "david de gea", 
+        "paul pogba"
+    ],
+    "MaxBidPlayers" : [ 
+        "aron ramsey", 
+        "paul pogba", 
+        "christiano ronaldo", 
+        "alexis sanchez", 
+        "david de gea"
+    ]
+}
