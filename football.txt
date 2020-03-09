@@ -1,0 +1,125 @@
+FOOTBALL
+football team:juventus , manchester united
+football players: manchester united
+david de gea
+Lee Grant
+bobby charlton
+eric bailly
+phil jones
+chris smalling
+marcos
+diogo dalot
+paul pogba
+juan mata
+fred
+daniel james
+bruno fernandes
+james garner
+nemanja matic
+james garner
+alexis sanchez
+anthony martial
+mason greenwood
+tahith chong
+football player: juventus
+Wojciech Szczesny
+Gianluigi Buffon
+Carlo Pinsoglio
+Matthijs de Ligt
+Merih Demiral
+Leonardo Bonucci
+Daniele Rugani	
+antonio conte
+Alex Sandro
+Danilo
+Mattia De Sciglio
+Miralem Pjanic
+Rodrigo Bentancur
+Aaron Ramsey
+Adrien Rabiot
+Blaise Matuidi
+Sami Khedira
+Cristiano Ronaldo	
+Douglas Costa	
+Paulo Dybala
+TOP FOOTBALL PLAYERS
+Cristiano Ronaldo	
+Douglas Costa	
+Paulo Dybala
+daniel james
+bruno fernandes
+james garner
+BEST FOOTBALL PLAYER IN LONDON:
+Paulo Dybala
+bobby charlton
+
+PLAYER
+highest paid player:
+paul pogba
+antonio conte
+christiano ronaldo
+daavid de gea
+paul pogba
+
+player with maximum bid:
+aron ramsey
+paul pogba 
+christiano ronaldo
+alexis sanchez
+david de gea
+
+football players: manchester united
+david de gea
+Lee Grant
+bobby charlton
+eric bailly
+phil jones
+chris smalling
+marcos
+diogo dalot
+paul pogba
+juan mata
+fred
+daniel james
+bruno fernandes
+james garner
+nemanja matic
+james garner
+alexis sanchez
+anthony martial
+mason greenwood
+tahith chong
+
+football player: juventus
+Wojciech Szczesny
+Gianluigi Buffon
+Carlo Pinsoglio
+Matthijs de Ligt
+Merih Demiral
+Leonardo Bonucci
+Daniele Rugani	
+antonio conte
+Alex Sandro
+Danilo
+Mattia De Sciglio
+Miralem Pjanic
+Rodrigo Bentancur
+Aaron Ramsey
+Adrien Rabiot
+Blaise Matuidi
+Sami Khedira
+Cristiano Ronaldo	
+Douglas Costa	
+Paulo Dybala
+
+TOP FOOTBALL PLAYERS:
+Cristiano Ronaldo	
+Douglas Costa	
+Paulo Dybala
+daniel james
+bruno fernandes
+james garner
+
+BEST FOOTBALL PLAYER IN LONDON:
+Paulo Dybala
+bobby charlton
